@@ -196,4 +196,26 @@ footer {
   color: white;
 }
 
+.horario {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  width: 100%;
+}
 
+table {
+  width: 90%;
+  margin-left: 3%;
+  margin-right: 10%;
+  font-size: 20px;
+  font-weight: bold;
+}
+table, th, td{
+  padding: 20px;
+  border: 1px solid #99592A;
+  border-collapse: collapse;
+  color: #99592A;
+}
+
+caption {
+  padding: 20px;
+}
